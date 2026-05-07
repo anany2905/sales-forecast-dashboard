@@ -17,6 +17,7 @@ An interactive sales forecasting and demand prediction dashboard built using Str
 - Plotly
 - Prophet
 - Machine Learning
+- Google Colab used for data preprocessing, EDA, and model building
 
 ## 📊 Project Type
 Time Series Forecasting & Business Intelligence Dashboard
